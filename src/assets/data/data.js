@@ -76,7 +76,7 @@ export const data = {
         {
             id: 1,
             name: 'Saepur Rokib',
-            icon: './src/assets/images/seabank.png',
+            icon: './src/assets/images/sea-bank.png',
             rekening: '901382304998'
         },
         {
