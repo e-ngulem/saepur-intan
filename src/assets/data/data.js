@@ -75,13 +75,13 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Saepul Rokib',
+            name: 'Saepur Rokib',
             icon: './src/assets/images/seabank.png',
             rekening: '901382304998'
         },
         {
             id: 2,
-            name: 'Saepul Rokib',
+            name: 'Saepur Rokib',
             icon: './src/assets/images/dana.png',
             rekening: '085721533720'
         },
