@@ -373,7 +373,8 @@ Keluarga Kedua Mempelai</textarea>
                 const originalMessage = messageTemplateInput.value;
 
                 // Automatically add the name to the greeting
-                let finalMessage = originalMessage.replace(/Bapak\/Ibu\/Saudara\/i/g, `Bapak/Ibu/Saudara/i ${contact.nama}`);
+               // let finalMessage = originalMessage.replace(/Bapak\/Ibu\/Saudara\/i/g, `Bapak/Ibu/Saudara/i ${contact.nama}`);
+                 let finalMessage = originalMessage.replace(/Bapak\/Ibu\/Saudara\/i/g, `Bapak/Ibu/Saudara/i`);
 
                 const formattedName = contact.nama.replace(/ /g, '%20');
                 const dynamicLink = `https://e-ngulem.github.io/saepur-intan/?to=${formattedName}`;
