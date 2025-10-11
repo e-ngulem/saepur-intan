@@ -2,18 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Saepur Rokib',
+            child: 'Putra',
+            father: 'Ngadiman',
+            mother: 'almh. Koimah',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Intan Amelia Santana',
+            child: 'Putri',
+            father: 'alm. Umar Santana',
+            mother: 'almh. Uun',
             image: './src/assets/images/cewe.png'
         },
 
@@ -22,20 +22,20 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2025',
+            month: 'Oktober',
+            date: '27',
+            day: 'Senin',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2025',
+            month: 'Oktober',
+            date: '27',
+            day: 'Senin',
             hours: {
                 start: '11.00',
                 finish: 'Selesai'
