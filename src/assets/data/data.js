@@ -75,9 +75,9 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Saepur Rokib',
+            name: 'Intan Amelia Santana',
             icon: './src/assets/images/sea-bank.png',
-            rekening: '901382304998'
+            rekening: '901311558973'
         },
         {
             id: 2,
