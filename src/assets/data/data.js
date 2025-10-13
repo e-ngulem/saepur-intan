@@ -5,8 +5,8 @@ export const data = {
             name: 'Saepur Rokib',
             child: 'Putra',
             father: 'Ngadiman',
-            mother: 'almh. Koimah',
-            image: './src/assets/images/cowo.png'
+            mother: 'almh. Koyimah',
+            image: './src/assets/images/20251013_121306_0001.png'
         },
         P: {
             id: 2,
@@ -14,7 +14,7 @@ export const data = {
             child: 'Putri',
             father: 'alm. Umar Santana',
             mother: 'almh. Uun',
-            image: './src/assets/images/cewe.png'
+            image: './src/assets/images/20251013_121306_0000.png'
         },
 
         couple: './src/assets/images/couple.png'
