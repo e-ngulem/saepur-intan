@@ -52,19 +52,19 @@ export const data = {
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/IMG-20251013-WA0026.jpg'
+            image: './src/assets/images/IMG_0472.JPG'
         },
         {
             id: 2,
-            image: './src/assets/images/IMG-20251013-WA0024.jpg'
+            image: './src/assets/images/IMG_0476.JPG'
         },
         {
             id: 3,
-            image: './src/assets/images/IMG-20251013-WA0027.jpg'
+            image: './src/assets/images/IMG_0477.JPG'
         },
         {
             id: 4,
-            image: './src/assets/images/IMG-20251013-WA0028.jpg'
+            image: './src/assets/images/IMG_0479.JPG'
         },
         
     ],
