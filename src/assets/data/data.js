@@ -6,7 +6,7 @@ export const data = {
             child: 'Putra',
             father: 'Ngadiman',
             mother: 'almh. Koyimah',
-            image: './src/assets/images/20251013_121306_0001.png'
+            image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
@@ -14,7 +14,7 @@ export const data = {
             child: 'Putri',
             father: 'alm. Umar Santana',
             mother: 'almh. Uun',
-            image: './src/assets/images/20251013_121306_0000.png'
+            image: './src/assets/images/cewe.png'
         },
 
         couple: './src/assets/images/couple.png'
@@ -48,7 +48,6 @@ export const data = {
         calendar: 'https://calendar.app.google/er6mwgWBDivKNvRh9',
         map: 'https://maps.app.goo.gl/LCY1657pxvXM48cFA',
     },
-
 
     galeri: [
         {
@@ -90,7 +89,7 @@ export const data = {
 
     audio: './src/assets/audio/wedding.mp3',
 
-    api: 'https://script.google.com/macros/s/AKfycbwRXiShHxMNiEJQ9DWu59r06fAFEhNAkF8I9kGNC37uWP--BRYpwxVbbIJgSX2Sk8q35A/exec',
+    api: 'https://script.google.com/macros/s/AKfycbyydz6N4p2VWUG8zsXeURv6ap9RP8a4eC3x6N3x6qTDjMVr1cIBz9S0NsHw2rWvBOSXGg/exec',
 
     navbar: [
         {
@@ -124,4 +123,4 @@ export const data = {
             path: '#wishas',
         },
     ],
-}
+    }
