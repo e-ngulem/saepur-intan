@@ -49,24 +49,28 @@ export const data = {
         map: 'https://maps.app.goo.gl/LCY1657pxvXM48cFA',
     },
 
+
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/IMG_0472.JPG'
+            image: './src/assets/images/1.png'
         },
         {
             id: 2,
-            image: './src/assets/images/IMG_0476.JPG'
+            image: './src/assets/images/2.png'
         },
         {
             id: 3,
-            image: './src/assets/images/IMG_0477.JPG'
+            image: './src/assets/images/3.png'
         },
         {
             id: 4,
-            image: './src/assets/images/IMG_0479.JPG'
+            image: './src/assets/images/4.png'
         },
-        
+        {
+            id: 5,
+            image: './src/assets/images/5.png'
+        }
     ],
 
     bank: [
@@ -107,9 +111,14 @@ export const data = {
             icon: 'bx bxs-calendar-check',
             path: '#time',
         },
-        
         {
             id: 4,
+            teks: 'Galeri',
+            icon: 'bx bxs-photo-album',
+            path: '#galeri',
+        },
+        {
+            id: 5,
             teks: 'Ucapan',
             icon: 'bx bxs-message-rounded-dots',
             path: '#wishas',
